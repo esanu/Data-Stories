@@ -18,9 +18,22 @@ Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.eco
 
 # Homework II
 
-<div class="infogram-embed" data-id="ee16705e-204e-46ab-b593-454d00d9c1e1" data-type="interactive" data-title="Journalist"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/ee16705e-204e-46ab-b593-454d00d9c1e1" style="color:#989898!important;text-decoration:none!important;" target="_blank">Journalist</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+Graphic developed as a journalist: The target audience from this perspective are primarily democrats. I decided to highlight the increase in apprehensions at the border because of the ongoing political debate on immigration.
+I chose neutral colors because...
 
-Border patrol apprehensions have more than doubled within the last year to nearly a quarter million when compared with the previous period. The largest increase is in apprehension of family units.
+<script id="infogram_0_ee16705e-204e-46ab-b593-454d00d9c1e1" title="Journalist" src="https://e.infogram.com/js/dist/embed.js?ivQ" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/ee16705e-204e-46ab-b593-454d00d9c1e1" style="color:#989898!important;text-decoration:none!important;" target="_blank">Journalist</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+Border patrol apprehensions have more than doubled within the last year to nearly a quarter million when compared with the previous period. The largest increase is in the apprehension of children and family units. The dramatic increase in detainees has led to overcrowding, prolonged detention and secruity concerns.
+
+Graphic developed from the perspective of a Department of Homeland Security analyst.
+The target audience from this perspective are primarily democrats. I decided to highlight the increase in apprehensions at the border because of the ongoing political debate on immigration.
+I chose neutral colors because...
+
+<div class="infogram-embed" data-id="5477ca7a-7c49-400d-a031-7e698ac67eff" data-type="interactive" data-title="Analyst"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/5477ca7a-7c49-400d-a031-7e698ac67eff" style="color:#989898!important;text-decoration:none!important;" target="_blank">Analyst</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+Border patrol apprehensions have more than doubled within the last year to nearly a quarter million when compared with the previous period. The largest increase is in the apprehension of children and family units. The dramatic increase in detainees has led to overcrowding, prolonged detention and secruity concerns.
+
+Funding for ICE boarding is short by over 20% causing a backlog in transferring detainees from detention at Border Patrol to detention at ICE.
 
 
 # Critique 2 - July 16, 2019
